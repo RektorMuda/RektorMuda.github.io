@@ -31,7 +31,6 @@ html,* {
     background-color: white;
     color: black;
     transition: .5s ease-in-out;
-    /* transition-delay: .3s; */
     border-radius: 8px;
 }
 
